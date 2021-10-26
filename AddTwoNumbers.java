@@ -1,4 +1,4 @@
-public class SumOfNumbers1  {  
+public class AddTwoNumbers  {  
     public static void main(String args[])   {  
          int n1 = 225, n2 = 115, sum;  
          sum = n1 + n2;  
